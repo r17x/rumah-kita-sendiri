@@ -1,5 +1,7 @@
 # Rumah Kita Sendiri (Home-Manager) with Nix Flakes.
 
+> Lihat Video disini -> https://youtu.be/M2kyVx-DZAk 
+
 ## Prasyarat (Prerequisite)
 * Nix: sudah dipasang di-komputer kamu
 * Aktifkan "flakes"
